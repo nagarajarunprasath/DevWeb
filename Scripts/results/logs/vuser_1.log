@@ -1,0 +1,11 @@
+[18:09:52.48] Info: Starting initialize.
+[18:09:52.48] Info: Ending initialize.
+[18:09:52.49] Info: Starting iteration 1.
+[18:09:52.49] Info: Transaction 'TC01_GET Employee List' started.	(./main.js:6:24)
+[18:09:52.49] Info: WebRequest [Id: 1] 'http://dummy.restapiexample.com/api/v1/employees' registered to send (sync).	(./main.js:14:8)
+[18:09:53.36] Info: WebRequest [Id: 1] 'http://dummy.restapiexample.com/api/v1/employees' completed. (1 request(s) sent, 3725 bytes downloaded)	(./main.js:14:8)
+[18:09:53.36] Info: Saving parameter 'Captured Value:  = success'	(./main.js:14:8)
+[18:09:53.36] Info: Transaction 'TC01_GET Employee List' ended with a 'Passed' status (Duration: 875 ms., ThinkTime: 0 ms.).	(./main.js:17:24)
+[18:09:53.37] Info: Ending iteration 1.
+[18:09:53.37] Info: Starting finalize.
+[18:09:53.37] Info: Ending finalize.
